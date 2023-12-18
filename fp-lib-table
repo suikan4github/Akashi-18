@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Rpi_Pico")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Akashi-18/footprint")(options "")(descr ""))
+)
