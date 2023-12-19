@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Rpi_Pico")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Akashi-18/lib/RPi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "My_RPi_Pico")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Akashi-18/lib/RPi_Pico.kicad_sym")(options "")(descr ""))
+  (lib (name "My_Digital_Tr")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Akashi-18/lib/dtc143z.kicad_sym")(options "")(descr ""))
+  (lib (name "My_LED")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Akashi-18/lib/OSTAMA5B31A.kicad_sym")(options "")(descr ""))
 )
