@@ -41,3 +41,4 @@ The potentiometer is connected to ADC0.
 - [Parts list](doc/partslist.ods)
 
 # Gallery
+![Assembled board](doc/image.png)
